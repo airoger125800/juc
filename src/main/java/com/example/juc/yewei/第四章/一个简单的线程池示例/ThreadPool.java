@@ -8,9 +8,6 @@ public interface ThreadPool {
     //关闭线程
     void shutdown();
     //增加工作者线程
-    
-    
-    
     void addWorkers(int num);
     //减少工作者线程
     void removeWorker(int num);
