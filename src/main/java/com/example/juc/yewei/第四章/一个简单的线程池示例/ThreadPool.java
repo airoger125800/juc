@@ -11,5 +11,4 @@ public interface ThreadPool {
     void addWorkers(int num);
     //减少工作者线程
     void removeWorker(int num);
-
 }
