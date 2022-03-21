@@ -1,6 +1,6 @@
 package com.example.juc;
 
-import com.example.juc.yewei.第五章.自定义同步组件TwinsLock.TwinsLock;
+import com.example.juc.yewei.第五章java中的锁.自定义同步组件TwinsLock.TwinsLock;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

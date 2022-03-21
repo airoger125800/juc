@@ -1,4 +1,4 @@
-package com.example.juc.yewei.第五章.自定义同步组件独占锁;
+package com.example.juc.yewei.第五章java中的锁.自定义同步组件独占锁;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
