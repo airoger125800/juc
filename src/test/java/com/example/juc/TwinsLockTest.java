@@ -10,7 +10,6 @@ import java.util.concurrent.locks.Lock;
 
 @SpringBootTest
 public class TwinsLockTest {
-
     @Test
     public void test(){
         final Lock lock = new TwinsLock();
